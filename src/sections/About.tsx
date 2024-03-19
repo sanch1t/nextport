@@ -28,7 +28,7 @@ function About() {
       <div className="about-grid">
         <div className="about-grid-info">
           <p className="about-grid-info-text">
-            Greetings! I'm  Sanchit, and I create stuff.
+            Greetings! Sanchit here, I create stuff.
           </p>
           <p className="about-grid-info-text">
             I specialize in designing and developing
