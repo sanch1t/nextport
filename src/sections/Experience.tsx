@@ -82,8 +82,7 @@ function Experience() {
       start: "Jan '24",
       end: "Feb '24",
       shortDescription: [
-        "While still a student, I founded a web hosting company that offered affordable hosting services.",
-        "With over 300 customers, the business thrived until I graduated and sold it to another company.",
+        "Researced and completed objectives using Tableau and TensorFlow",
       ],
     },
   ];
