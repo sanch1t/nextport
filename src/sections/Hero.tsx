@@ -41,7 +41,7 @@ function Hero() {
           delay: 1.05,
         }}
       >
-        I'm a webapp connoisseur.
+        and I am a webapp connoisseur.
       </motion.h3>
       <motion.p
         className="hero-text"
