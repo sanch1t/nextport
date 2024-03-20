@@ -41,7 +41,7 @@ function Experience() {
     {
       name: "The BigPitchr",
       role: "Web Developer",
-      url: "https://www.linkedin.com/company/association-of-computer-engineering-students/",
+      url: "https://www.linkedin.com/company/bigpitchr/",
       start: "Dec '21",
       end: "Jan '22",
       shortDescription: [
@@ -53,13 +53,13 @@ function Experience() {
     {
       name: "IProCo",
       role: "Content Intern",
-      url: "https://developer.salesforce.com",
+      url: "",
       start: "Dec '21",
       end: "Mar '22",
       shortDescription: [
-        "Learnt Salesforce Fundamentals ,Organizational Setup and Relationship & Process Automation.",
-        "Understood Types Of Flows & Security Apex, Testing & Debugging in Salesforce environments.",
-        "Worked around VS Code Setups & CLI Setups as well as undertaking Lightning Web Components (LWC) & API."
+        "Wrote extensive artices on healthcare related topics.",
+        "Understood and implemented various SEO and analytics techniques to maximize placement and reach.",
+        "Used wordpress."
         
       ],
     },
