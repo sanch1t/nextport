@@ -7,11 +7,11 @@ import { motion } from "framer-motion";
 function Projects() {
   const projectsData = [
     {
-      image: "/project1.png",
-      projectName: "Pokedex",
-      projectLink: "https://netlify.com",
+      image: "/wraite.jpg",
+      projectName: "wrAIte",
+      projectLink: "https://wraite.vercel.app",
       projectDescription:
-        "This app shows details about different Pokemon from the PokeAPI. You can see their evolution levels and other information. You can compare multiple Pokemon and save them to your own list using a database called Firebase Firestore.",
+        "    🌐 Leveraging NextJS 13's cutting-edge App Router.🔥 Utilize DALLE AI Image Generation 🎨 Harnessing the beauty of Shadcn and the power of Tailwind CSS. 🧠 Unleashing the capabilities of OpenAI's API for Language Model usage. 🗃️ Interacting with databases with the efficiency of ORMs.",
       projectTech: [
         "React",
         "Redux Toolkit",
