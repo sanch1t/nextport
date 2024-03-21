@@ -7,7 +7,7 @@ import { motion } from "framer-motion";
 function Projects() {
   const projectsData = [
     {
-      image: "/wraite.jpg",
+      image: "/wraite.png",
       projectName: "wrAIte",
       projectLink: "https://wraite.vercel.app",
       projectDescription:
